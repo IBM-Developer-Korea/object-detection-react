@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Object Detection React App
+   random-route: true
+   memory: 1G
